@@ -14,5 +14,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Mentoria: Organização de estudos
   - Mentoria: Como Resolver desafios de código na sua jornada como dev
   - Introdução a criação de websites com HTML5 e CSS3
+  - Criação de site com Flexbox
+  - Conceitos de resposividade e experência do usuário
 
 ## 🚧 Repositório em contrução! 🚧

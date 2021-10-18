@@ -1,7 +1,7 @@
 # Bootcamp - Impulso React Web Developer
 
 <p align="center">
-  <img src="logo-Impulso.png" width="150" height="150"/>
+  <img src="https://raw.githubusercontent.com/kevenalves/Bootcamp-ImpulsoReact/main/logo-Impulso.png" width="150" height="150"/>
 </p>
 
 ## 🚀 Descrição
@@ -16,11 +16,11 @@ Projeto final da sessão do curso de CSS-Flexbox.
 ## 🖥️ preview final do projeto
 
 <p align="center">
-  <img src="desktop.png" width="400" height="600"/>
+  <img src="images/desktop.png" width="400" height="600"/>
 </p>
 
 ## 📳 preview final do projeto mobile
 
 <p align="center">
-  <img src="mobile.png" width="400" height="600"/>
+  <img src="images/mobile.png" width="400" height="600"/>
 </p>
