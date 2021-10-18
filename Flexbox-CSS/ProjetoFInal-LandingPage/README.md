@@ -22,5 +22,5 @@ Projeto final da sessão do curso de CSS-Flexbox.
 ## 📳 preview final do projeto mobile
 
 <p align="center">
-  <img src="images/mobile.png" width="400" height="600"/>
+  <img src="images/mobile.png" width="100" height="600"/>
 </p>
