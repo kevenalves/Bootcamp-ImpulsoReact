@@ -18,6 +18,10 @@ body{
     color: var(--white);
 }
 
+.container{
+    margin-left: 20px;
+}
+
 header .container{
     display: flex;
     align-items: center;
@@ -48,6 +52,7 @@ header .container nav a:hover{
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/Netflix-interface-clone/img/HouseOfCards.jpg');
 
     height: 400px;
+    /* height: 90vh; */
     background-size: cover;
 
     display: flex;
@@ -58,8 +63,50 @@ header .container nav a:hover{
 
 .filme-principal .container .titulo{
     font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    margin-top: 15%;
 }
 
 .filme-principal .container .descricao{
     margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+.filme-principal .container .buttons .btn{
+    border: none;
+    padding: 0.8rem;
+    margin-right: 15px;
+    font-size: 12px;
+    transition: .3s ease all;
+    border-radius: 5px;
+}
+
+.filme-principal .container .buttons .info{
+    background-color: rgba(136, 134, 134, 0.5);
+    color: var(--white);
+}
+
+.filme-principal .container .buttons .info:hover{
+    background-color: rgba(136, 134, 134, 0.3);
+}
+
+.filme-principal .container .buttons .play{
+    background-color: rgba(255, 255, 255, 0.90);
+    color: var(--black);
+}
+
+.filme-principal .container .buttons .play:hover{
+    background-color: rgba(255, 255, 255, 0.60);
+}
+
+.filme-principal .container .buttons .btn i{
+    margin-right: 10px;
+}
+
+/* carousel  */
+
+.box-image{
+    width: 100%;
+    height: 100%;
+    display: block;
 }
