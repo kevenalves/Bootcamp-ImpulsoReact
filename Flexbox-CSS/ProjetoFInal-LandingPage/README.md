@@ -6,6 +6,7 @@
 
 ## 🚀 Descrição
 Projeto final da sessão do curso de CSS-Flexbox.
+Verifique o projeto de forma interativa: https://landpageflex.netlify.app/
 
 ## 🔧 Melhorias e alteções no projeto proposto:
   - Construção de variaveis no CSS.
