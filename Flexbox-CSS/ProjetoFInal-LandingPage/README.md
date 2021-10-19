@@ -17,11 +17,11 @@ Verifique o projeto de forma interativa: https://landpageflex.netlify.app/
 ## 🖥️ preview final do projeto
 
 <p align="center">
-  <img src="images/desktop.png" width="400" height="600"/>
+  <img src="images/desktop.png" width="1200" height="1800"/>
 </p>
 
 ## 📳 preview final do projeto mobile
 
 <p align="center">
-  <img src="images/mobile.png" width="100" height="600"/>
+  <img src="images/mobile.png" width="175" height="1200"/>
 </p>
