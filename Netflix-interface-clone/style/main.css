@@ -50,7 +50,7 @@ header .container nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/Netflix-interface-clone/img/HouseOfCards.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/HouseOfCards.jpg');
 
     height: 80vh;
     background-size: cover;
