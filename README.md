@@ -16,5 +16,8 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Introdução a criação de websites com HTML5 e CSS3
   - Criação de site com Flexbox
   - Conceitos de resposividade e experência do usuário
+  - Media queries
+  - Javascript
+  - Manipulação da DOM
 
 ## 🚧 Repositório em contrução! 🚧

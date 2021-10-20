@@ -11,11 +11,11 @@ Verifique o projeto de forma interativa: https://darkmode-dio.netlify.app/
 ## 🖥️ preview final do projeto versão Light Mode
 
 <p align="center">
-  <img src="img/light.png" width="800" height="1200"/>
+  <img src="img/light.png" width="1600" height="1200"/>
 </p>
 
 ## 📳 preview final do projeto versão Dark Mode
 
 <p align="center">
-  <img src="img/dark.png" width="800" height="1200"/>
+  <img src="img/dark.png" width="1600" height="1200"/>
 </p>
