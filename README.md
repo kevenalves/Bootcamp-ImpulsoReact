@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Descrição
-Repositório criado com o objetivo de compartilhar todos os meus projetos e desafios desenvolvido ao longo do Bootcamp.
+Repositório criado com o objetivo de compartilhar todos os meus projetos e desafios desenvolvidos ao longo do Bootcamp.
 
 ## 📚 Principais aprendizados até agora:
   - Lógica de programação Essencial
@@ -17,6 +17,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Criação de site com Flexbox
   - Conceitos de resposividade e experência do usuário
   - Media queries
+  - Mentoria: Responsividade na prática
   - Javascript
   - Manipulação da DOM
 
