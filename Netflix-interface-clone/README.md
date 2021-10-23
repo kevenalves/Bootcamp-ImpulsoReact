@@ -17,11 +17,11 @@ Verifique o projeto de forma interativa: https://netflix-interfaceclone.netlify.
 ## 🖥️ preview final do projeto
 
 <p align="center">
-  <img src="img/demo/desktop.png" width="1200" height="1800"/>
+  <img src="img/demo/desktop.png" width="1848" height="1542"/>
 </p>
 
 ## 📳 preview final do projeto mobile
 
 <p align="center">
-  <img src="img/demo/mobile.png" width="375" height="1200"/>
+  <img src="img/demo/mobile.png" width="414" height="1156"/>
 </p>
