@@ -20,6 +20,10 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Mentoria: Responsividade na prática
   - Javascript
   - Manipulação da DOM
+  - Mentoria: Javascript
+  - Mentoria: Trabalhando com Classes em Javascript
+  - ReactJS
+  - Componentes em React
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Landing Page](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/LandingPage-Flexbox)
