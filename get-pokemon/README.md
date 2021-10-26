@@ -1,11 +1,12 @@
 # GetPokemon - Live DIO - Trabalhando com classes em Javascript
 
 Esse repositório foi criado para o projeto da Live do Bootcamp Impulso React Web Developer da Digital Innovation One. <br />\
-Veja o projeto GetPokemon de forma interativa - [Visite](https://get-pokemon-kev.netlify.app/)
 
 <p align="center">
-  <img src="./assets/img/readme-bootcamp-image.png" width="188" height="400"/>
+  <img src="./assets/img/readme-bootcamp-image.png" width="400" height="188"/>
 </p>
+
+Veja o projeto GetPokemon de forma interativa - [Visite](https://get-pokemon-kev.netlify.app/)
 
 ---
 
@@ -29,12 +30,6 @@ Veja o projeto GetPokemon de forma interativa - [Visite](https://get-pokemon-kev
 * Refatoração de CSS para SCSS
 
 ---
-
-## 🖥️ preview final do projeto desktop
-
-<p align="center">
-  <img src="assets/img/mobile.png" width="895" height="740"/>
-</p>
 
 ## 📳 preview final do projeto mobile
 
