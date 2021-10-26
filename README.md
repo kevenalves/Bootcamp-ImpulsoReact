@@ -21,4 +21,11 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Javascript
   - Manipulação da DOM
 
+## 🔧 Principais projetos desenvolvidos:
+  - [Landing Page](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/LandingPage-Flexbox)
+  - [Dark Mode](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/dark-mode)
+  - [Dino Game](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/Dino-Game)
+  - [Netflix Interface Clone](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/Netflix-interface-clone)
+  - [GetPokemon](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/get-pokemon)
+
 ## 🚧 Repositório em contrução! 🚧

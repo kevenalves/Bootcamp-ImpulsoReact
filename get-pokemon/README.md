@@ -1,6 +1,6 @@
 # GetPokemon - Live DIO - Trabalhando com classes em Javascript
 
-Esse repositório foi criado para o projeto da Live do Bootcamp Impulso React Web Developer da Digital Innovation One. <br />\
+Esse repositório foi criado para o projeto da Live do Bootcamp Impulso React Web Developer da Digital Innovation One. <br />
 
 <p align="center">
   <img src="./assets/img/readme-bootcamp-image.png" width="400" height="188"/>
