@@ -22,7 +22,7 @@ class Pokemon {
   }
 
   get baseExperience() {
-    return `${this._baseExperience}/100` 
+    return `${this._baseExperience}/1000` 
   }
 
   get weight(){
