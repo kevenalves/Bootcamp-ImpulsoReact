@@ -1,0 +1,18 @@
+@media (max-width: 480px) {
+    .pokemon-head {
+      justify-content: center;
+    }
+  
+    .pokemon-row {
+      align-items: center;
+      flex-direction: column;
+    } 
+  
+    .pokemon-properties {
+      text-align: center;
+    }
+  
+    .pokemon-properties__list {
+      padding-left: 0; 
+    }
+  }
