@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Button from '../button';
+import './style.css'
 
 const Card = () => {
     
@@ -15,8 +16,10 @@ const Card = () => {
     
     return (
         <div className="card">
-            <h5 className="card-header">Meu primeiro Card</h5>
+            <h5 className="card-header text-card">Meu primeiro Card</h5>
             <div className="card-body">
+
+            <p className="text-card">{valor}</p>
 
                 <Button
                 className="btn btn-success"
@@ -31,8 +34,6 @@ const Card = () => {
                 >
                     Remover
                 </Button>
-
-                <p>{valor}</p>
             </div>
         </div>
     )
