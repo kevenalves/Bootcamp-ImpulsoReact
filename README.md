@@ -24,6 +24,13 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Mentoria: Trabalhando com Classes em Javascript
   - ReactJS
   - Componentes em React
+  - Estilização em React
+  - Stateful vs Stateless
+  - introdução Flux e Redux
+  - introdução Rest HTTP
+  - Imutabilidade
+  - Visão geral sobre Test Driven Development e Behavior-Driven Development com jest
+  - Visão geral Debuggin e tratamento de erros
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Landing Page](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/LandingPage-Flexbox)
