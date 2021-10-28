@@ -31,6 +31,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Imutabilidade
   - Visão geral sobre Test Driven Development e Behavior-Driven Development com jest
   - Visão geral Debuggin e tratamento de erros
+  - React Hooks
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Landing Page](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/LandingPage-Flexbox)
@@ -38,5 +39,6 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - [Dino Game](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/Dino-Game)
   - [Netflix Interface Clone](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/Netflix-interface-clone)
   - [GetPokemon](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/get-pokemon)
+  - [Naruto Quotes - React](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/Naruto-Quotes)
 
 ## 🚧 Repositório em contrução! 🚧

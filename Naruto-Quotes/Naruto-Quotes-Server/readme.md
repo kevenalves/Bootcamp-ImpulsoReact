@@ -1,8 +1,10 @@
 # Naruto Quotes Api
-====================
 Simple app to generate random Naruto quotes using Python and Flask
 <br />
-Project developed by:[Instructor Celso Henrique](https://github.com/celso-henrique/naruto-quotes-server)
+---
+Simple app to generate random Naruto quotes using Python and Flask
+<br />
+Project developed by instructor:[Celso Henrique](https://github.com/celso-henrique/naruto-quotes-server)
 
 # Running locally
 With Python and Pip installed, install the dependencies with:
