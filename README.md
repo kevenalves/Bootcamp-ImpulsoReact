@@ -32,6 +32,8 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Visão geral sobre Test Driven Development e Behavior-Driven Development com jest
   - Visão geral Debuggin e tratamento de erros
   - React Hooks
+  - Conceitos avançados em projetos com React
+  - Gerenciamento do estado das aplicações com Redux
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Landing Page](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/LandingPage-Flexbox)
