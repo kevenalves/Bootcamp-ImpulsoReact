@@ -34,6 +34,8 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - React Hooks
   - Conceitos avançados em projetos com React
   - Gerenciamento do estado das aplicações com Redux
+  - Testes unitários com React e Jest
+  - Mentoria: Context API no React
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Landing Page](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/LandingPage-Flexbox)
@@ -42,5 +44,6 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - [Netflix Interface Clone](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/Netflix-interface-clone)
   - [GetPokemon](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/get-pokemon)
   - [Naruto Quotes - React](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/Naruto-Quotes)
+  - [Restaurant Finder - React](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/restaurant-Finder)
 
 ## 🚧 Repositório em contrução! 🚧
