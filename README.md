@@ -7,7 +7,8 @@
 ## 🚀 Descrição
 Repositório criado com o objetivo de compartilhar todos os meus projetos e desafios desenvolvidos ao longo do Bootcamp.
 
-## 📚 Principais aprendizados até agora:
+
+## 📚 Principais aprendizados:
   - Lógica de programação Essencial
   - Estrutura de dados e Algoritmos
   - Introdução ao Git e Github
@@ -36,6 +37,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Gerenciamento do estado das aplicações com Redux
   - Testes unitários com React e Jest
   - Mentoria: Context API no React
+  - Live: Graduação
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Landing Page](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/LandingPage-Flexbox)
@@ -45,5 +47,3 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - [GetPokemon](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/get-pokemon)
   - [Naruto Quotes - React](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/Naruto-Quotes)
   - [Restaurant Finder - React](https://github.com/kevenalves/Bootcamp-ImpulsoReact/tree/main/restaurant-Finder)
-
-## 🚧 Repositório em contrução! 🚧
